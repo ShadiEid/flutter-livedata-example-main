@@ -1,0 +1,23 @@
+{
+  "app_name": "Livedata-App",
+  "welcome": "Welcome to Livedata App",
+  "login": "Login",
+  "register": "Register",
+  "password_too_weak": "The password provided is too weak.",
+  "email_already_exists": "The account already exists for that email.",
+  "no_user_found": "No user found for that email.",
+  "wrong_password_provided": "Wrong password provided for that user.",
+  "required": "required",
+  "check_internet_connection": "Please Check your Internet Connection",
+  "email_not_valid": "Email is not valid",
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "not_have_account": "Don't have an Account? Register",
+  "already_have_account": "Already have an Account? Login",
+  "logout": "Logout",
+  "theme_mode": "Theme Mode",
+  "language": "Language",
+  "submit": "Submit"
+}
